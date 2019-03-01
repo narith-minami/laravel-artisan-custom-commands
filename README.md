@@ -1,5 +1,8 @@
 # laravel-artisan-custom-commands
-Original artisan commands
+オリジナルのartisanコマンドです / Original artisan commands
+
+## Install
+zipをDLして、app/Console/Commandsにコピペしてファイルを入れてください。
 
 ## make:service {Name}
 ex.  
